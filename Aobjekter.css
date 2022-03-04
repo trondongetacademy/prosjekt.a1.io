@@ -101,7 +101,7 @@ li a.navigation:hover:not(active){
 }
 .img3{
     width:auto;
-    height:495px;
+    height:350px;
     border:1px solid black;
     padding: 10px;
     background-color:white;
@@ -113,7 +113,7 @@ li a.navigation:hover:not(active){
     height: auto;
 }
 .img5{
-    width:45%;
+    width:50%;
     height:auto;
     border:1px solid black;
     padding: 10px;
@@ -123,18 +123,17 @@ li a.navigation:hover:not(active){
 }
 .img6{
     width:auto;
-    height:435px;
+    height:345px;
     border:1px solid black;
     padding: 10px;
     background-color:white;
-    margin-left:110px
+    margin-left:30px
 }
 .img7{
     border:1px solid black;
     padding:10px;
     background-color:white;
-    margin-left:450px;
-    
+    margin-left:15%;    
 }
 .StarInfo{
     font-size: 20px;
