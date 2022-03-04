@@ -91,7 +91,7 @@ const model = {
         'Reusable: No',
         'Fuel:    LOX & LH2',
         'Weight:  777 000kg'],
-        image:  'RocketIMG/Ariane5-1.jpeg',
+        image:  'RocketIMG/ariane5-1.jpeg',
         },
 
         {
